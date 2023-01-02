@@ -62,7 +62,7 @@ lvim.lsp.installer.setup.ensure_installed = {
 -- })
 
 -- lvim --headless +'lua require("lvim.utils").generate_settings()' +qa && sort -o lv-settings.lua{,}
-require('lua.myplugins')
+require('user.myplugins')
 require('config.trouble')
 require('config.lsp')
 require('config.utils')

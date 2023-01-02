@@ -127,7 +127,6 @@ lvim.plugins = {
     'styled-components/vim-styled-components',
     "p00f/nvim-ts-rainbow",
     "tpope/vim-surround",
-
-
+    "sitiom/nvim-numbertoggle"
   },
 }
